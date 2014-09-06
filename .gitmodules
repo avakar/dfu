@@ -1,0 +1,3 @@
+[submodule "libyb"]
+	path = libyb
+	url = git@github.com:avakar/libyb.git
